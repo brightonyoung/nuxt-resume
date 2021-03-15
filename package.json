@@ -23,5 +23,17 @@
     "pug": "^3.0.0",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.3.1"
-  }
+  },
+  "description": "![locates](./documentation/ResumeLogo.png)",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightonyoung/nuxt-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightonyoung/nuxt-resume/issues"
+  },
+  "homepage": "https://github.com/brightonyoung/nuxt-resume#readme"
 }
