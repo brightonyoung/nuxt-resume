@@ -36,11 +36,11 @@
 export default {
   props: {
     name: {
-      default: 'John',
+      default: 'Brighton',
       type: String
     },
     lastName: {
-      default: 'Doe',
+      default: 'Young',
       type: String
     }
   }
